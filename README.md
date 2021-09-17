@@ -50,4 +50,4 @@
 Use [@StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to get pyrogram string session
 
 ### Credits
-- @english_songs_and_musics
+- t.me/english_songs_and_musics
