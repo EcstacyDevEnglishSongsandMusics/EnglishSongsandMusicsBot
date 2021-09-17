@@ -41,7 +41,7 @@
 - `/end` - stop music play
 
 
-#### Based on Callsmusic-1
+#### Based on AI
 
 ### Deploy To Heroku</h4>
 
